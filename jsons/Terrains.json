@@ -199,5 +199,132 @@
                 "unbuildable": false,
 		"weight": 10,
                 "uniques": ["Terrestrial"]
+	},
+	// Uranus
+	{
+		"name": "Miranda",
+		"type": "NaturalWonder",
+                "occursOn": ["Moon"],
+                "RGB": [0,181,0],
+                "turnsInto": "Moon",
+		"impassable": false,
+                "unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
+	},
+	{
+		"name": "Ariel",
+		"type": "NaturalWonder",
+                "occursOn": ["Moon"],
+                "RGB": [0,181,0],
+                "turnsInto": "Moon",
+		"impassable": false,
+                "unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
+	},
+	{
+		"name": " Umbriel",
+		"type": "NaturalWonder",
+                "occursOn": ["Moon"],
+                "RGB": [0,181,0],
+                "turnsInto": "Moon",
+		"impassable": false,
+                "unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
+	},
+	{
+		"name": "Titania",
+		"type": "NaturalWonder",
+                "occursOn": ["Moon"],
+                "RGB": [0,181,0],
+                "turnsInto": "Moon",
+		"impassable": false,
+                "unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
+	},
+	{
+		"name": "Oberon",
+		"type": "NaturalWonder",
+                "occursOn": ["Moon"],
+                "RGB": [0,181,0],
+                "turnsInto": "Moon",
+		"impassable": false,
+                "unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
+	},
+	// Neptune
+	{
+		"name": "Triton",
+		"type": "NaturalWonder",
+                "occursOn": ["Moon"],
+                "RGB": [0,181,0],
+                "turnsInto": "Moon",
+		"impassable": false,
+                "unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
+	},
+	// TN Objects
+	// Dwarf
+	{
+		"name": "Pluto",
+		"type": "NaturalWonder",
+                "occursOn": ["Moon"],
+                "RGB": [0,181,0],
+                "turnsInto": "Moon",
+		"impassable": false,
+                "unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
+	},
+	/*
+	{
+		"name": "Charon", // Pluto moons
+		"type": "NaturalWonder",
+                "occursOn": ["Moon"],
+                "RGB": [0,181,0],
+                "turnsInto": "Moon",
+		"impassable": false,
+                "unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
+	},
+	*/
+	{
+		"name": "Eris",
+		"type": "NaturalWonder",
+                "occursOn": ["Moon"],
+                "RGB": [0,181,0],
+                "turnsInto": "Moon",
+		"impassable": false,
+                "unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
+	},
+	{
+		"name": "Haumea",
+		"type": "NaturalWonder",
+                "occursOn": ["Moon"],
+                "RGB": [0,181,0],
+                "turnsInto": "Moon",
+		"impassable": false,
+                "unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
+	},
+	{
+		"name": "Makemake",
+		"type": "NaturalWonder",
+                "occursOn": ["Moon"],
+                "RGB": [0,181,0],
+                "turnsInto": "Moon",
+		"impassable": false,
+                "unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
 	}
 ]
