@@ -1,0 +1,111 @@
+[
+        {
+                "name": "Mercury",
+                "type": "NaturalWonder",
+                "occursOn": ["Earth-Type Planet"],
+                "production": 1,
+		"movementCost": 1,
+                "RGB": [0,181,0],
+                "turnsInto": "Earth-Type Planet",
+		"impassable": false,
+		"unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
+        },
+        {
+                "name": "Venus",
+                "type": "NaturalWonder",
+                "occursOn": ["Earth-Type Planet"],
+                "production": 1,
+		"movementCost": 3,
+                "RGB": [0,181,0],
+                "turnsInto": "Earth-Type Planet",
+		"impassable": false,
+		"unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
+        },
+        {
+                "name": "Earth",
+                "type": "NaturalWonder",
+                "occursOn": ["Earth-Type Planet"],
+		"food": 2,
+                "gold": 1,
+                "production": 1,
+		"movementCost": 1,
+                "RGB": [0,181,0],
+                "turnsInto": "Earth-Type Planet",
+		"impassable": false,
+		"unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
+        },
+        {
+                "name": "Mars",
+                "type": "NaturalWonder",
+                "occursOn": ["Earth-Type Planet"],
+		"production": 2,
+		"movementCost": 1,
+                "RGB": [0,181,0],
+                "turnsInto": "Earth-Type Planet",
+		"impassable": false,
+		"unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
+        },
+        {
+                "name": "Jupiter",
+                "type": "NaturalWonder",
+                "occursOn": ["Gas Planet"],
+                "RGB": [0,181,0],
+                "turnsInto": "Gas Planet",
+		"impassable": true,
+                "unbuildable": true,
+		"weight": 10,
+                "uniques": ["Gas"]
+        },
+        {
+                "name": "Saturn",
+                "type": "NaturalWonder",
+                "occursOn": ["Gas Planet"],
+                "RGB": [0,181,0],
+                "turnsInto": "Gas Planet",
+		"impassable": true,
+                "unbuildable": true,
+		"weight": 10,
+                "uniques": ["Gas"]
+        },
+        {
+                "name": "Uranus",
+                "type": "NaturalWonder",
+                "occursOn": ["Ice Planet"],
+                "RGB": [0,181,0],
+                "turnsInto": "Gas Planet",
+		"impassable": true,
+                "unbuildable": true,
+		"weight": 10,
+                "uniques": ["Ice"]
+        },
+        {
+                "name": "Neptune",
+                "type": "NaturalWonder",
+                "occursOn": ["Ice Planet"],
+                "RGB": [0,181,0],
+                "turnsInto": "Gas Planet",
+		"impassable": true,
+                "unbuildable": true,
+		"weight": 10,
+                "uniques": ["Ice"]
+        },
+        {
+                "name": "Asteroid Belt",
+ 		"type": "TerrainFeature",
+                "movementCost": 2,
+		"unbuildable": true,
+		"defenceBonus": -0.1,
+		"occursOn": ["Ocean","Coast"],
+                "production": 1,
+ 		"movementCost": 1,
+ 		"RGB": [110,0,123]
+        }
+]
