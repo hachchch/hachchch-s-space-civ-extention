@@ -1,10 +1,30 @@
 [
         {
-                "name": "",
-                "": ""
+                "name": "ISS",
+                "isWonder": true,
         },
         {
-                "name": "",
-                "": ""
-        }
+                "name": "Cyanobacteria Plantation",
+                "cost": 100,
+                "requiredTech": "Science and Culture",
+                "uniques": ["Creates a [Oxidized] improvement on a specific tile","Must have an owned [Land] within [3] tiles"]
+        },
+        {
+                "name": "Comet Radar",
+                "cost": 100,
+                "requiredTech": "Science and Culture",
+                "uniques": ["Creates a [Ocean Blue] improvement on a specific tile","Must have an owned [] within [3] tiles"]
+        },
+        {
+                "name": "Rain Forest Planting",
+                "cost": 100,
+                "requiredTech": "Science and Culture",
+                "uniques": ["Creates a [Habitable] improvement on a specific tile","Must have an owned [] within [3] tiles"]
+        },
+        {
+                "name": "Magnetosphere Contorol",
+                "cost": 100,
+                "requiredTech": "Science and Culture",
+                "uniques": ["Creates a [] improvement on a specific tile","Must have an owned [non-[Habitable]] within [3] tiles","Remove [Magnetosphere Contorol] [in this city]"]
+        },
 ]
