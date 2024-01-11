@@ -326,5 +326,21 @@
                 "unbuildable": false,
 		"weight": 10,
                 "uniques": ["Terrestrial"]
+	},
+	// Beyond
+	{
+		"name": "Alpha Centauri",
+		"type": "NaturalWonder",
+                "occursOn": ["Earth-Type Planet"],
+		"food": 2,
+                "gold": 1,
+                "production": 1,
+		"movementCost": 1,
+                "RGB": [0,181,0],
+                "turnsInto": "Earth-Type Planet",
+		"impassable": false,
+		"unbuildable": false,
+		"weight": 10,
+                "uniques": ["Terrestrial"]
 	}
 ]
