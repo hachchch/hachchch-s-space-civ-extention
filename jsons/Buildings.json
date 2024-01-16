@@ -1,9 +1,11 @@
 [
         {
                 "name": "ISS",
+                "cost": 100,
                 "isWonder": true,
+                "uniques": ["Creates a [ISS] improvement on a specific tile"]
         },
-        {
+        /*{
                 "name": "Cyanobacteria Plantation",
                 "cost": 100,
                 "requiredTech": "Science and Culture",
@@ -26,5 +28,5 @@
                 "cost": 100,
                 "requiredTech": "Science and Culture",
                 "uniques": ["Creates a [] improvement on a specific tile","Must have an owned [non-[Habitable]] within [3] tiles","Remove [Magnetosphere Contorol] [in this city]"]
-        },
+        },*/
 ]
